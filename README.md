@@ -1,2 +1,3 @@
 # Classwork-AdvancedDigitalImageProcessing-Cpp
-A classwork from Advanced Digital Image Processing in C++
+
+Classworks from Advanced Digital Image Processing in C++
